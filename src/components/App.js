@@ -59,7 +59,7 @@ function App() {
 		<Container>
 			<Navigation/>
 
-			<h1 className="text-center my-4">Introducing DApp Token!</h1>
+			<h1 className="text-center my-4">Introducing DPAS Token!</h1>
 
 			{isLoading ? (
 				<p className="text-center"><strong>Loading...</strong></p>

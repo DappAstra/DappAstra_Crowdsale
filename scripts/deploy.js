@@ -1,8 +1,8 @@
 const hre = require("hardhat");
 
 async function main() {
-    const NAME = 'Dapp University'
-    const SYMBOL = 'DAPP'
+    const NAME = 'DappAstra Token'
+    const SYMBOL = 'DPAS'
     const MAX_SUPPLY = '1000000'
     const PRICE = hre.ethers.utils.parseUnits('0.025', 'ether')
 
